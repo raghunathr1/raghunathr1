@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi 👋, I'm Raghunath Kapse<br><br>💻 **Full Stack Developer | MERN Stack Developer | AI/ML Enthusiast**<br><br>I'm a passionate Full Stack Developer from Nashik, Maharashtra, India, with hands-on internship experience in web development, REST APIs, database management, and AI-powered applications.<br><br>🚀 **What I Do**<br>- Build responsive and user-friendly web applications.<br>- Develop RESTful APIs using Node.js and Express.js.<br>- Work with React.js, JavaScript, MongoDB, and MySQL.<br>- Explore AI/ML, RAG chatbots, and Python-based applications.<br>- Practice problem-solving and continuously improve my coding skills.<br><br>🛠️ **Tech Stack:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Python, Git, and GitHub.<br><br>🌱 **Currently Learning:** Advanced React.js, MERN Stack Development, Data Structures & Algorithms, and AI integration in web applications.<br><br>🎯 **Career Goal:** To grow as a Full Stack Developer by building real-world projects, learning new technologies, and contributing to meaningful software solutions.<br><br>🤝 I'm open to **Full Stack Developer, MERN Stack Developer, Frontend Developer, and Backend Developer** opportunities.<br><br>📫 **Let's Connect!**<br><br>- GitHub: https://github.com/raghunathr1<br>- LinkedIn: https://linkedin.com/in/raghunath-kapse<br><br>⭐ Check out my repositories and feel free to connect with me!
 
-<!--
-**raghunathr1/raghunathr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raghunath Kapse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Raghu.s_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghunath-kapse-5b174b376) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Raghunath Sukdev Kapse) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Raghunath Sukdev Kapase) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghunathkapase2004@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=raghunathr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=raghunathr1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=raghunathr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=raghunathr1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
